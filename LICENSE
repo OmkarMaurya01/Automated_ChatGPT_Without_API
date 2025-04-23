@@ -1,0 +1,1 @@
+Now it explicitly tells users to replace the `email` and `password` with their own ChatGPT login credentials. This ensures that only the user can log in with their own account.
